@@ -1,3 +1,4 @@
+`include "ALU.v"
 /*
  * verilog model of 6502 CPU.
  *
